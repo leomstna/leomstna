@@ -26,5 +26,3 @@
 * 🤝 Sempre de boas pra trocar conhecimento sobre dev, setups pesados, ou referências musicais e de terror.
 
 -Valeu por passar aqui. É nós! 🦇
-
-![Snake animation](https://github.com/leomstna/leomstna/blob/output/github-contribution-grid-snake.svg)
