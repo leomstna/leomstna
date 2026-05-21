@@ -7,7 +7,6 @@
 * 🎓 Atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas na UFBRA.
 * 💻 Mexo bastante com Python, HTML, CSS, JavaScript, além do combo de edição pesada (After Effects, Premiere, CapCut) e IAs (ElevenLabs, Whisper).
 * 🌱 Estou constantemente focado em aprimorar meus projetos web, como o EchoBox, o WXP e o Pesadelo Analógico.
-* 📚 Quando não tô codando ou editando, tô montando umas farms cabulosas no Minecraft ou expandindo a lore dark fantasy do meu universo, Zul-Vorn.
 
 -O Que Você Encontrará Aqui
 
